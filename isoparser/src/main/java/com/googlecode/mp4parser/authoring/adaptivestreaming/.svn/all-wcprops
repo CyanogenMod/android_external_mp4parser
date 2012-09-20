@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/773/trunk/isoparser/src/main/java/com/googlecode/mp4parser/authoring/adaptivestreaming
+END
+VideoQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/760/trunk/isoparser/src/main/java/com/googlecode/mp4parser/authoring/adaptivestreaming/VideoQuality.java
+END
+FlatPackageWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/760/trunk/isoparser/src/main/java/com/googlecode/mp4parser/authoring/adaptivestreaming/FlatPackageWriterImpl.java
+END
+ManifestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/755/trunk/isoparser/src/main/java/com/googlecode/mp4parser/authoring/adaptivestreaming/ManifestWriter.java
+END
+AbstractManifestWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/757/trunk/isoparser/src/main/java/com/googlecode/mp4parser/authoring/adaptivestreaming/AbstractManifestWriter.java
+END
+PackageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/755/trunk/isoparser/src/main/java/com/googlecode/mp4parser/authoring/adaptivestreaming/PackageWriter.java
+END
+AudioQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/760/trunk/isoparser/src/main/java/com/googlecode/mp4parser/authoring/adaptivestreaming/AudioQuality.java
+END
+FlatManifestWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/773/trunk/isoparser/src/main/java/com/googlecode/mp4parser/authoring/adaptivestreaming/FlatManifestWriterImpl.java
+END

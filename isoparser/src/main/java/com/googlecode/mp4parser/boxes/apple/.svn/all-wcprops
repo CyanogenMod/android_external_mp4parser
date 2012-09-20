@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/727/trunk/isoparser/src/main/java/com/googlecode/mp4parser/boxes/apple
+END
+TimeCodeBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/684/trunk/isoparser/src/main/java/com/googlecode/mp4parser/boxes/apple/TimeCodeBox.java
+END
+QuicktimeTextSampleEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/690/trunk/isoparser/src/main/java/com/googlecode/mp4parser/boxes/apple/QuicktimeTextSampleEntry.java
+END
+GenericMediaHeaderAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/684/trunk/isoparser/src/main/java/com/googlecode/mp4parser/boxes/apple/GenericMediaHeaderAtom.java
+END
+BaseMediaInfoAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/687/trunk/isoparser/src/main/java/com/googlecode/mp4parser/boxes/apple/BaseMediaInfoAtom.java
+END
+TaptAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/727/trunk/isoparser/src/main/java/com/googlecode/mp4parser/boxes/apple/TaptAtom.java
+END
+GenericMediaHeaderTextAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/685/trunk/isoparser/src/main/java/com/googlecode/mp4parser/boxes/apple/GenericMediaHeaderTextAtom.java
+END

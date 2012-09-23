@@ -18,6 +18,7 @@ include $(CLEAR_VARS)
 LOCAL_MODULE := mp4parser
 LOCAL_SDK_VERSION := 9
 LOCAL_SRC_FILES := $(call all-java-files-under, isoparser/src/main/java)
+LOCAL_JAVA_RESOURCE_DIRS := isoparser/src/main/resources
 
 include $(BUILD_STATIC_JAVA_LIBRARY)
 

@@ -107,8 +107,9 @@ public abstract class SampleEntry extends AbstractBox implements ContainerBox {
 
     @Override
     public void parse(ReadableByteChannel readableByteChannel, ByteBuffer header, long contentSize, BoxParser boxParser) throws IOException {
-        super.parse(readableByteChannel, header, contentSize, boxParser);
         this.boxParser = boxParser;
+        super.parse(readableByteChannel, header, contentSize, boxParser);
+
     }
 
 

@@ -226,6 +226,7 @@ public class DefaultMp4Builder implements Mp4Builder {
         tkhd.setModificationTime(DateHelper.convert(new Date()));
         tkhd.setTrackId(track.getTrackMetaData().getTrackId());
         tkhd.setVolume(track.getTrackMetaData().getVolume());
+        tkhd.setMatrix(track.getTrackMetaData().getMatrix());
         if (tkhd.getCreationTime() >= 1l << 32 ||
                 tkhd.getModificationTime() >= 1l << 32 ||
                 tkhd.getDuration() >= 1l << 32) {

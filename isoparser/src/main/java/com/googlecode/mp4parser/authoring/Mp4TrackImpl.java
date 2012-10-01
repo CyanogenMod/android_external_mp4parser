@@ -167,6 +167,7 @@ public class Mp4TrackImpl extends AbstractTrack {
         trackMetaData.setHeight(tkhd.getHeight());
         trackMetaData.setWidth(tkhd.getWidth());
         trackMetaData.setLayer(tkhd.getLayer());
+        trackMetaData.setMatrix(tkhd.getMatrix());
     }
 
     public List<ByteBuffer> getSamples() {

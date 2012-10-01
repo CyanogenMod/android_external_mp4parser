@@ -30,6 +30,7 @@ public class TrackMetaData implements Cloneable {
     private float volume;
     private long trackId = 1; // zero is not allowed
     private int group = 0;
+    private long[] matrix = new long[]{0x00010000, 0, 0, 0, 0x00010000, 0, 0, 0, 0x40000000};
 
 
     /**
@@ -77,6 +78,14 @@ public class TrackMetaData implements Cloneable {
 
     public void setWidth(double width) {
         this.width = width;
+    }
+
+    public long[] getMatrix() {
+        return matrix;
+    }
+
+    public void setMatrix(long[] m) {
+        this.matrix = m;
     }
 
     public double getHeight() {

@@ -21,7 +21,3 @@ LOCAL_SRC_FILES := $(call all-java-files-under, isoparser/src/main/java)
 LOCAL_JAVA_RESOURCE_DIRS := isoparser/src/main/resources
 
 include $(BUILD_STATIC_JAVA_LIBRARY)
-
-# Include this library in the build server's output directory
-$(call dist-for-goals, dist_files, $(LOCAL_BUILT_MODULE):mp4parser.jar)
-
